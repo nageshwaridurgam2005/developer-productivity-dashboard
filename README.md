@@ -49,3 +49,16 @@ developer-productivity-dashboard/
 ├── package.json
 ├── vite.config.js
 └── README.md
+## 📸 Screenshots
+
+### Dashboard
+
+![Developer Productivity Dashboard](screenshots/dashboard.png)
+
+### Projects
+
+![Projects Page](screenshots/projects.png)
+
+### Dark Mode
+
+![Dark Mode](screenshots/dark-mode.png)
